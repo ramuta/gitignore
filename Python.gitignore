@@ -1,3 +1,13 @@
+# My .gitignore files and folders
+.idea/
+.vagrant/
+.DS_Store
+default/
+html/
+
+app/venv/
+app/secret.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
